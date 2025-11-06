@@ -1,0 +1,8 @@
+*.pyc
+*.bak
+*.csv
+*.xls
+*.xlsx
+*.txt
+*.json
+result/

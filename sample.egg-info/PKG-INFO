@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: sample
+Version: 0.2
+Summary: HARMAT project
+Home-page: https://www.bitbucket.org/whistlebee/harmat
+Author: Paul Kim
+Author-email: hki34@uclive.ac.nz
+Keywords: security analysis framework
+Requires-Dist: networkx
+Requires-Dist: tabulate
+Requires-Dist: lxml
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: summary
